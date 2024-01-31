@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.12" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/bs4-start" />
+        <option value="$MODULE_DIR$/day-25-us-states-game-start" />
+        <option value="$MODULE_DIR$/day-25-start" />
+        <option value="$MODULE_DIR$/day-32-birthday-wisher-extrahard-start" />
+        <option value="$MODULE_DIR$/day-32-birthday-wisher-start" />
+        <option value="$MODULE_DIR$/day-33-issoverhead-start" />
+        <option value="$MODULE_DIR$/day-33-kanye-quotes-start" />
+        <option value="$MODULE_DIR$/day-36-stock-news-extrahard-start" />
+        <option value="$MODULE_DIR$/day-55-flask-higher-lower-urls" />
+        <option value="$MODULE_DIR$/day-56-flask-rendering-html-1" />
+        <option value="$MODULE_DIR$/day-56-flask-rendering-html-2" />
+        <option value="$MODULE_DIR$/flash-card-project-start" />
+        <option value="$MODULE_DIR$/Mail+Merge+Project+Start" />
+        <option value="$MODULE_DIR$/nato-alphabet-exercise" />
+        <option value="$MODULE_DIR$/NATO-alphabet-start" />
+        <option value="$MODULE_DIR$/password-manager-start" />
+        <option value="$MODULE_DIR$/pomodoro-start" />
+        <option value="$MODULE_DIR$/quiz-game-start" />
+      </list>
+    </option>
+  </component>
+</module>
